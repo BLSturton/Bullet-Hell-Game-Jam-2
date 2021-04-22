@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4deef04c623f88348aaf01b1f9c3a4f3, type: 3}
+  m_Name: Holy Arrow
+  m_EditorClassIdentifier: 
+  projectileName: HolyArrow
+  projectilePrefab: {fileID: 2186322957755313049, guid: f3cb4b1cc0e12984bafd05c29aac4fa9,
+    type: 3}
+  shotChance: 0
+  baseCooldown: 0.3
+  cooldown: 0.3
+  count: 2
+  spreadDegrees: 75
+  cameraRecoil: 1.25
+  cooldownTimer: 0.954431
